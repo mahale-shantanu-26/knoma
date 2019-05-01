@@ -118,7 +118,6 @@ background-color: white;
 <a href="help.html" class="button button1" style="font-family:Cambria;">HELP</a>
 <a href="contact.html" class="button button1" style="font-family:Cambria;">CONTACT AND SUPPORT</a>
 </form>
-<font size="2">&copyA Katam Gagan Sai Production</font>
 <hr width = 1300 color=white> 
 </div>
 
